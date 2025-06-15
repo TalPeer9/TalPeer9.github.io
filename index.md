@@ -5,7 +5,7 @@ title: Tal Peer
 
 <div class="intro">
   <h1>Tal Peer</h1>
-  <p><strong>Data Scientist & Machine Learning Researcher</strong></p>
+  <p><strong>Data Scientist & ML Researcher</strong></p>
 </div>
 
 ---
@@ -19,7 +19,7 @@ title: Tal Peer
 
 ## Education
 
-<p> B.Sc. Data Science and Engineering, Faculty of Data and Decision Sciences, Technion – Israel Institute of Technology.</p>
+<p> B.Sc. Data Science and Engineering, Technion – Israel Institute of Technology </p>
 
 ---
 
