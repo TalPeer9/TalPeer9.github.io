@@ -23,5 +23,5 @@ Data scientist with hands-on experience in NLP, adversarial ML, and real-world p
 
 - 📄 [Resume](files/TalPeerCV_Jun2025.pdf)
 - 💻 [GitHub](https://github.com/TalPeer9)
-- 🌐 [LinkedIn](www.linkedin.com/in/tal-peer-782117228)
+- 🌐 [LinkedIn](www.linkedin.com/in/tal-p-782117228)
 - 📧 [Email Me](mailto:talbdu@gmail.com)
