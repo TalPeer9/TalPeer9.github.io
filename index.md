@@ -9,14 +9,16 @@ title: Tal Peer
 </div>
 
 ---
+- Curriculum Developer @ MagshimimAI, Cyber Education Center
+- Former Data Scientist @ BridgeWise, @ Veego
+---
 
-## About
+## Education
 
-Data scientist with hands-on experience in NLP, adversarial ML, and real-world product integration. 
-B.Sc. Data Science and Engineering, Faculty of Data and Decision Science, Technion 
+<p> B.Sc. Data Science and Engineering, Faculty of Data and Decision Sciences, Technion – Israel Institute of Technology.</p>
 
 ---
----
+
 ## Projects & Academic Research
 
 - [Video Classification](https://github.com/TalPeer9/VideoClassification)
