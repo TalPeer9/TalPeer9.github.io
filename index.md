@@ -13,7 +13,7 @@ title: Tal Peer
 
 - AI Program Curriculum Developer @ [Cyber Education Center](https://cyber.org.il/about-us-eng/)
 - Data Scientist @ Veego
-- Data Scientist || Machine Learning Engineer @ BridgeWise
+- Data Scientist @ BridgeWise
 
 ---
 
