@@ -13,7 +13,7 @@ title: Tal Peer
 
 - Curriculum Developer @ Cyber Education Center
 - Data Scientist @ Veego
-- Data Scientist | Machine Learning Engineer @ BridgeWise
+- Data Scientist || Machine Learning Engineer @ BridgeWise
 
 ---
 
