@@ -9,8 +9,12 @@ title: Tal Peer
 </div>
 
 ---
-- Curriculum Developer @ MagshimimAI, Cyber Education Center
-- Former Data Scientist @ BridgeWise, @ Veego
+## Professional Experience
+
+- Curriculum Developer @ Cyber Education Center
+- Data Scientist @ Veego
+- Data Scientist | Machine Learning Engineer @ BridgeWise
+
 ---
 
 ## Education
