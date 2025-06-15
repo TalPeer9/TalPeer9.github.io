@@ -11,7 +11,7 @@ title: Tal Peer
 ---
 ## Professional Experience
 
-- AI Program Curriculum Developer @ [Cyber Education Center](https://cyber.org.il/about-us-eng/)
+- AI Curriculum Architect @ [Cyber Education Center](https://cyber.org.il/about-us-eng/)
 - Data Scientist @ Veego
 - Data Scientist @ BridgeWise
 
