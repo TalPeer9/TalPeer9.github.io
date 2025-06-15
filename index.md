@@ -19,7 +19,7 @@ title: Tal Peer
 
 ## Education
 
-<p> B.Sc. Data Science and Engineering, Technion – Israel Institute of Technology </p>
+<p> B.Sc. Data Science and Engineering @ Technion – Israel Institute of Technology </p>
 
 ---
 
