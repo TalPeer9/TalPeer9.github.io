@@ -1,0 +1,32 @@
+body {
+  background-color: #0a1a2f;
+  color: #f2f4f8;
+  font-family: 'Segoe UI', sans-serif;
+  line-height: 1.6;
+  padding: 2rem;
+}
+
+h1, h2, h3 {
+  color: #aad8ff;
+}
+
+a {
+  color: #66bfff;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+hr {
+  border: 0;
+  height: 1px;
+  background: #1e2f47;
+  margin: 2rem 0;
+}
+
+.intro {
+  text-align: center;
+  margin-bottom: 3rem;
+}
